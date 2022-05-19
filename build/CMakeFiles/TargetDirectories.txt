@@ -1,0 +1,3 @@
+/home/airobots/Yolo_mark/build/CMakeFiles/rebuild_cache.dir
+/home/airobots/Yolo_mark/build/CMakeFiles/edit_cache.dir
+/home/airobots/Yolo_mark/build/CMakeFiles/yolo_mark.dir
